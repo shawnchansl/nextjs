@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@prisma/client": "4.9.0",
-    "next": "^9.4.0",
+    "next": "^13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "swr": "^2.0.3"
@@ -23,10 +23,5 @@
     "@types/react": "^18.0.27",
     "prisma": "4.9.0",
     "typescript": "^4.9.5"
-  },
-  "workspaces": {
-    "packages": [
-      "front"
-    ]
   }
 }
